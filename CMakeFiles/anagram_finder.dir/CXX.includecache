@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/oozgur/Desktop/Github/anagram_finder/Dictionary.h
+string
+-
+
+/Users/oozgur/Desktop/Github/anagram_finder/dictionary.cpp
+Dictionary.h
+/Users/oozgur/Desktop/Github/anagram_finder/Dictionary.h
+string
+-
+
+/Users/oozgur/Desktop/Github/anagram_finder/test.cpp
+Dictionary.h
+/Users/oozgur/Desktop/Github/anagram_finder/Dictionary.h
+iostream
+-
+fstream
+-
+string
+-
+

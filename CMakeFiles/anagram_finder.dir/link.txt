@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/anagram_finder.dir/dictionary.cpp.o CMakeFiles/anagram_finder.dir/test.cpp.o  -o anagram_finder  
